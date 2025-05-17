@@ -25,22 +25,6 @@ To analyze the digital music store data by answering business questions and deri
 
 Schema- Music Store Database  
 ![MusicDatabaseSchema](https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)
-
-## 🗂️ Dataset Overview
-
-The dataset includes the following relational tables:
-
-| Table Name     | Description                              |
-|----------------|------------------------------------------|
-| `Customers`    | Stores customer details                  |
-| `Invoices`     | Records of purchases                     |
-| `Invoice_Items`| Tracks individual items sold             |
-| `Tracks`       | Details about each song                  |
-| `Albums`       | Albums and their associated tracks       |
-| `Artists`      | Artist information                       |
-| `Genres`       | Types of music genres                    |
-| `Employees`    | Employee details and roles               |
-
 ---
 
 ## 🛠️ Tools & Technologies Used
